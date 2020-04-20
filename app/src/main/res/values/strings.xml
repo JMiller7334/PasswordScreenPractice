@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Password Screen Practice</string>
+    <string name="strgLogin">Username</string>
+    <string name="strgPassword">Password</string>
+    <string name="strgLoginHint">Enter a Username</string>
+    <string name="strgLoginButton">Login</string>
+    
+    <string name="errMsgLogin">Invalid Login, Please retry.</string>
+    <string name="errMsgPassword">Invalid password. Please retry.</string>
+
+    
+</resources>
